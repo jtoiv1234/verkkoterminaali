@@ -18,3 +18,12 @@ exports.read_a_product = function(req, res) {
     res.json(task);
   });
 };
+
+exports.create_a_product = function(req, res) {
+  var new_tuote = new Tuote(req.body);
+  new_tuote.save(function(err, task) {
+    if (err)
+      res.send(err);
+    res.json(task);
+  });
+};
