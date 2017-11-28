@@ -1,0 +1,13 @@
+lisee:\ You dont like the default colors? 
+	No worries $nimi, you can setup your own style.
+		Colors: Red	= 1
+			Blue	= 2
+			Yellow	= 3
+			White	= 4
+			Black	= 5
+			Green	= 6
+
+	TYPE B# TO change background color
+	TYPE F# TO change font color
+	TYPE Back TO go back
+	

@@ -1,0 +1,10 @@
+lisee:\ Yo, here is my Collection 2018:
+	1. Item[0]
+	2. Item[1]
+	3. Item[3]
+	4. Item[4]
+	5. Item[5]
+
+	TYPE Item[0] -w TO Watch item
+	TYPE Item[0] -i TO See item info
+	TYPE Item[0] -r TO Leave a reservation

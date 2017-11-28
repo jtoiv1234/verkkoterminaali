@@ -1,0 +1,5 @@
+you:\4
+lisee:\ Yo $nimi, you can reach me by email lisee.no.pour@gmail.com
+	or you can leave message here.
+		TYPE 1 TO LEAVE MESSAGE HERE
+		TYPE Back TO GO BACK

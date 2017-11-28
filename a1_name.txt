@@ -1,0 +1,6 @@
+you:\ $nimi
+lisee:\ Hey $nimi. Would you like to?
+		TYPE 1 TO See Collection 2017
+		TYPE 2 TO See Collection 2018
+		TYPE 3 TO Change colors
+		TYPE 4 TO Contact me

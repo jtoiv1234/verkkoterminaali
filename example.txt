@@ -1,0 +1,45 @@
+         .____    .___  _____________________________            
+         |    |   |   |/   _____|_   _____|_   _____/            
+  ______ |    |   |   |\_____  \ |    __)_ |    __)_   ______    
+ /_____/ |    |___|   |/        \|        \|        \ /_____/    
+         |_______ \___/_______  /_______  /_______  /            
+                 \/           \/        \/        \/             
+                  _______   ________                             
+                  \      \  \_____  \                            
+  ______  ______  /   |   \  /   |   \   ______  ______  ______  
+ /_____/ /_____/ /    |    \/    |    \ /_____/ /_____/ /_____/  
+                 \____|__  /\_______  /                          
+                         \/         \/                           
+                __________________   ____ _____________          
+                \______   \_____  \ |    |   \______   \         
+  ______  ______ |     ___//   |   \|    |   /|       _/  ______ 
+ /_____/ /_____/ |    |   /    |    \    |  / |    |   \ /_____/ 
+                 |____|   \_______  /______/  |____|_  /         
+                                  \/                 \/          
+
+lisee:\ WELCOME TO SEE MY SUPER RARE COLLECTION. 
+lisee:\ YOU CAN LEAVE A RESERVATION FOR ITEMS.
+lisee:\ I RECOMEND TO USE FULLSCREEN.
+
+lisee:\ PRESS F11 TO USE FULLSCREEN AND F11 TO EXIT FROM FULLSCREEN.
+
+lisee:\ What's your name?
+you:\ Otto
+lisee:\ Hey Otto. Would you like to?
+		TYPE 1 TO See Collection 2017
+		TYPE 2 TO See Collection 2018
+		TYPE 3 TO Change colors
+		TYPE 4 TO Contact me
+you:\4
+lisee:\ Yo Otto, you can reach me by email lisee.no.pour@gmail.com
+	or you can leave message here.
+		TYPE 1 TO LEAVE MESSAGE HERE
+		TYPE 2 TO GO BACK
+you:\1
+lisee:\ Yo plz leave your email or phonenumber at the end of the message
+	so I can reply okay. And press ENTER when you are finished.
+your_message:\ 
+
+
+
+
