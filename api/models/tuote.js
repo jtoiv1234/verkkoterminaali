@@ -4,8 +4,9 @@ var Schema = mongoose.Schema;
 
 
 var TuoteSchema = new Schema({
-  id: {
-    type: Number
+  _id: {
+    type: String,
+	required: "Id is required"
   },
   name: {
     type: String,
