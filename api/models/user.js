@@ -10,10 +10,6 @@ var UserSchema = new mongoose.Schema({
     type: String,
     required: 'Kindly enter the email address'
   },
-  displayName: {
-    type: String,
-    required: 'Kindly enter the user display name'
-  },
   password: {
     type: String,
     required: 'Password is required'
