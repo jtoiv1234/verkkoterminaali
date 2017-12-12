@@ -4,7 +4,8 @@ module.exports = {
             return next()
         }
         else {
-            res.redirect('/?error=denied');
+            res.status(403);
+            res.send('403: Access denied');
         }
     }
 }
