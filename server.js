@@ -5,6 +5,8 @@ var express = require('express'),
   Task = require('./api/models/tuote'), //created model loading here
   bodyParser = require('body-parser');
   
+app.use(express.static('public'))
+  
 // mongoose instance connection url connection
 mongoose.Promise = global.Promise;
 mongoose.connect('mongodb://localhost/data'); 
