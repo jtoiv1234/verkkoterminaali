@@ -4,14 +4,14 @@ var mongoose = require('mongoose'),
 User = mongoose.model('User');
 
 exports.getUsers = function(req, res) {
-  Tuote.find({}, function(err, task) {
+  User.find({}, function(err, task) {
     if (err)
       res.send(err);
     res.json(task);
   });
 };
 
-exports.getUserById = function(req, res) {
+exports.getUser = function(req, res) {
   User.findById(req.params.userId, function(err, user) {
     if (err)
       res.send(err);
