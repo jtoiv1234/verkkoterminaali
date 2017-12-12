@@ -4,7 +4,7 @@ module.exports = function(app) {
 
   app.route('/users')
     .get(userController.getUsers)
-	  .post(userController.createUser);
+    .post(userController.createUser);
 
   app.route('/users/:userId')
     .get(userController.getUser)
